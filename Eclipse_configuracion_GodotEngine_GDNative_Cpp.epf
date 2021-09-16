@@ -1,4 +1,4 @@
-#Thu Sep 16 13:13:35 ART 2021
+#Thu Sep 16 14:10:08 ART 2021
 \!/=
 /configuration/com.genuitec.eclipse.code.core/codemix.data.location.core=C\:\\Users\\ariel\\.codemix
 /configuration/com.genuitec.eclipse.code.core/codemix.data.location.initialized=true
@@ -115,7 +115,7 @@
 /instance/com.genuitec.eclipse.codetogether.ui/codetogether.main.view.displayed=true
 /instance/com.genuitec.eclipse.codetogether.ui/uuid=2iUJPhJiHQBUQHPvKOt9g9
 /instance/com.genuitec.eclipse.intro.popups/acknowledgedTips=offer.license.coupon,popup.controlpanel,codemix.welcome.day1,codemix.welcome.day2,
-/instance/com.genuitec.eclipse.monitor/last.upload.time=1631707404283
+/instance/com.genuitec.eclipse.monitor/last.upload.time=1631811950661
 /instance/com.genuitec.eclipse.sqlexplorer/overriddenByCSS=,sql_columns,sql_default,sql_keyword,sql_multi_line_comment,sql_single_line_comment,sql_string,sql_table,
 /instance/com.genuitec.eclipse.sqlexplorer/sql_columns=171,115,255
 /instance/com.genuitec.eclipse.sqlexplorer/sql_default=210,215,218
@@ -241,7 +241,7 @@
 /instance/org.eclipse.cdt.core.prj-Godot_Eclipse_proyect/indexer/preferenceScope=0
 /instance/org.eclipse.cdt.core/macros/workspace=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<macros/>\r\n
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.showSourceFilesInBinaries=true
-/instance/org.eclipse.cdt.core/org.eclipse.cdt.core.showSourceNotFoundEditor=all_time
+/instance/org.eclipse.cdt.core/org.eclipse.cdt.core.showSourceNotFoundEditor=never
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.showSourceRootsAtTopLevelOfProject=true
 /instance/org.eclipse.cdt.debug.core/org.eclipse.cdt.debug.core.cDebug.default_source_containers=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<sourceLookupDirector>\r\n    <sourceContainers duplicates\="false">\r\n        <container memento\="AbsolutePath" typeId\="org.eclipse.cdt.debug.core.containerType.absolutePath"/>\r\n        <container memento\="programRelativePath" typeId\="org.eclipse.cdt.debug.core.containerType.programRelativePath"/>\r\n        <container memento\="&lt;?xml version\=&quot;1.0&quot; encoding\=&quot;UTF-8&quot; standalone\=&quot;no&quot;?&gt;&\#13;&\#10;&lt;project referencedProjects\=&quot;true&quot;/&gt;&\#13;&\#10;" typeId\="org.eclipse.cdt.debug.core.containerType.project"/>\r\n    </sourceContainers>\r\n</sourceLookupDirector>\r\n
 /instance/org.eclipse.cdt.debug.ui/columnOrderKeyEXE=0,1,2,3,4,5
@@ -477,7 +477,7 @@
 /instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:Build\ &\ Launch\ Project\ Explorer/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
 /instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:Eclipse_Godot_Cpp_Proyect\ Debug/activeLaunchMode=run
 /instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:Eclipse_Godot_Cpp_Proyect\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
-/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:Init\ Godot\ with\ Proyect/activeLaunchMode=run
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:Init\ Godot\ with\ Proyect/activeLaunchMode=profile
 /instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:Init\ Godot\ with\ Proyect/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
 /instance/org.eclipse.launchbar.ui.controls/ConfigSelector.shell.h=145
 /instance/org.eclipse.launchbar.ui.controls/ConfigSelector.shell.w=266
@@ -555,7 +555,6 @@
 /instance/org.eclipse.ui.editors/AbstractTextEditor.Color.SelectionForeground.SystemDefault=false
 /instance/org.eclipse.ui.editors/PHPReadOccurrenceIndicationColor=71,92,124
 /instance/org.eclipse.ui.editors/PHPWriteOccurrenceIndicationColor=71,92,124
-/instance/org.eclipse.ui.editors/currentLine=false
 /instance/org.eclipse.ui.editors/currentLineColor=14,18,20
 /instance/org.eclipse.ui.editors/deletionIndicationColor=210,82,82
 /instance/org.eclipse.ui.editors/filteredSearchResultIndicationColor=71,92,124
@@ -580,6 +579,7 @@
 /instance/org.eclipse.ui.workbench/ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.ui.workbenchMisc\tTorg.eclipse.cdt.ui.presentation\tTorg.eclipse.cdt.ui.CEditor.presentation\tTorg.eclipse.tracecompass.tmf.ui.theme.category
 /instance/org.eclipse.ui.workbench/ColorsAndFontsPreferencePage.selectedElement=Forg.eclipse.cdt.ui.editors.textfont
 /instance/org.eclipse.ui.workbench/ENABLED_DECORATORS=org.eclipse.ui.LinkedResourceDecorator\:true,org.eclipse.ui.SymlinkDecorator\:true,org.eclipse.ui.VirtualResourceDecorator\:true,org.eclipse.ui.ContentTypeDecorator\:true,org.eclipse.ui.ResourceFilterDecorator\:false,org.eclipse.mylyn.context.ui.decorator.interest\:true,org.eclipse.debug.ui.prototype.decorator\:true,org.eclipse.cdt.ui.indexedFiles\:false,org.eclipse.cdt.managedbuilder.ui.excludedFile\:true,org.eclipse.cdt.managedbuilder.ui.includeFolder\:true,org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator\:true,org.eclipse.mylyn.tasks.ui.decorators.task\:true,org.eclipse.linuxtools.tmf.ui.trace_folder.decorator\:true,org.eclipse.linuxtools.tmf.ui.experiment_folder.decorator\:true,org.eclipse.linuxtools.tmf.ui.linked_trace.decorator\:true,org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator\:true,org.eclipse.egit.ui.internal.repository.RepositoryTreeNodeDecorator\:true,
+/instance/org.eclipse.ui.workbench/UIActivities.org.eclipse.cdt.debug.cdigdbActivity=true
 /instance/org.eclipse.ui.workbench/UIActivities.org.eclipse.cdt.debug.dsfgdbActivity=true
 /instance/org.eclipse.ui.workbench/org.eclipse.cdt.debug.ui.ModulesDetailPaneFont=1|Consolas|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
 /instance/org.eclipse.ui.workbench/org.eclipse.cdt.internal.ui.compare.AsmMergeViewer=1|Consolas|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
