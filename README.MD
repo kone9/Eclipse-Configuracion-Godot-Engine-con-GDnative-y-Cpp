@@ -1,0 +1,1 @@
+# Configuracion de eclipse con colores de Gdscript y preferencias para programar y depurar con Godot Engine, GDnative y C++
