@@ -1,4 +1,4 @@
-#Thu Sep 16 11:50:48 ART 2021
+#Thu Sep 16 13:13:35 ART 2021
 \!/=
 /configuration/com.genuitec.eclipse.code.core/codemix.data.location.core=C\:\\Users\\ariel\\.codemix
 /configuration/com.genuitec.eclipse.code.core/codemix.data.location.initialized=true
@@ -555,9 +555,11 @@
 /instance/org.eclipse.ui.editors/AbstractTextEditor.Color.SelectionForeground.SystemDefault=false
 /instance/org.eclipse.ui.editors/PHPReadOccurrenceIndicationColor=71,92,124
 /instance/org.eclipse.ui.editors/PHPWriteOccurrenceIndicationColor=71,92,124
-/instance/org.eclipse.ui.editors/currentLineColor=31,33,41
+/instance/org.eclipse.ui.editors/currentLine=false
+/instance/org.eclipse.ui.editors/currentLineColor=14,18,20
 /instance/org.eclipse.ui.editors/deletionIndicationColor=210,82,82
 /instance/org.eclipse.ui.editors/filteredSearchResultIndicationColor=71,92,124
+/instance/org.eclipse.ui.editors/hoverReplaceMode=2
 /instance/org.eclipse.ui.editors/javaScriptOccurrenceIndicationColor=71,92,124
 /instance/org.eclipse.ui.editors/lineNumberColor=162,195,170
 /instance/org.eclipse.ui.editors/occurrenceIndicationColor=71,92,124
@@ -565,6 +567,7 @@
 /instance/org.eclipse.ui.editors/org.eclipse.cdt.ui.writeOccurrenceIndicationColor=69,78,137
 /instance/org.eclipse.ui.editors/printMarginColor=162,195,170
 /instance/org.eclipse.ui.editors/searchResultIndicationColor=71,92,124
+/instance/org.eclipse.ui.editors/showAnnotationAsCodeMiningLevel=12
 /instance/org.eclipse.ui.editors/spellingEnabled=false
 /instance/org.eclipse.ui.editors/writeOccurrenceIndicationColor=71,92,124
 /instance/org.eclipse.ui.ide/IMPORT_FILES_AND_FOLDERS_RELATIVE=true
