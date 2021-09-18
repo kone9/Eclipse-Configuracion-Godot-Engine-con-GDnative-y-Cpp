@@ -1,4 +1,4 @@
-#Fri Sep 17 16:25:28 ART 2021
+#Sat Sep 18 00:21:16 ART 2021
 \!/=
 /configuration/com.genuitec.eclipse.code.core/codemix.data.location.core=C\:\\Users\\ariel\\.codemix
 /configuration/com.genuitec.eclipse.code.core/codemix.data.location.initialized=true
@@ -23,9 +23,9 @@
 /configuration/com.genuitec.eclipse.code/core.def=567p694q5017p2o030q31110q5n36s35|UD4f2NGuCoiJyFfs6kzZGlQRwLQwp1EjFjwqt8sNPzXD5DEk/apDApQUJIspue00fGpc0fiV5rH\=
 /configuration/com.genuitec.eclipse.code/had.license.check=true
 /configuration/com.genuitec.eclipse.intro.popups/acknowledgedTips=offer.license.coupon,popup.controlpanel,codemix.welcome.day1,codemix.welcome.day2,
-/configuration/com.genuitec.eclipse.monitor//webclipse/ideused/dayOfMonth=17
+/configuration/com.genuitec.eclipse.monitor//webclipse/ideused/dayOfMonth=18
 /configuration/com.genuitec.eclipse.monitor//webclipse/ideused/month=8
-/configuration/com.genuitec.eclipse.monitor/ideused=3
+/configuration/com.genuitec.eclipse.monitor/ideused=4
 /configuration/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
 /configuration/org.eclipse.epp.mpc.ui/showOpenFavoritesNotification=false
 /configuration/org.eclipse.equinox.p2.garbagecollector/gc_enabled=false
@@ -81,7 +81,7 @@
 /instance/com.genuitec.eclipse.code.core/one.time.migration=true
 /instance/com.genuitec.eclipse.code.core/reported.codemix=true
 /instance/com.genuitec.eclipse.code.debug/com.genuitec.eclipse.debug.javascript.launch.migrated=true
-/instance/com.genuitec.eclipse.code.monitor/last.upload.time=1631842589521
+/instance/com.genuitec.eclipse.code.monitor/last.upload.time=1631933147860
 /instance/com.genuitec.eclipse.code.server/localServeSecretKey=pemiqnouyg
 /instance/com.genuitec.eclipse.code.server/wsPort=60845
 /instance/com.genuitec.eclipse.code.server/wssPort=60851
@@ -239,7 +239,7 @@
 /instance/org.eclipse.ant.ui/org.eclipse.ant.ui.warningColor=255,198,0
 /instance/org.eclipse.ant.ui/overriddenByCSS=,org.eclipse.ant.ui.Color,org.eclipse.ant.ui.debugColor,org.eclipse.ant.ui.informationColor,org.eclipse.ant.ui.verboseColor,org.eclipse.ant.ui.warningColor,org.eclipse.ant.ui.commentsColor,org.eclipse.ant.ui.constantStringsColor,org.eclipse.ant.ui.dtdColor,org.eclipse.ant.ui.processingInstructionsColor,org.eclipse.ant.ui.tagsColor,org.eclipse.ant.ui.textColor,
 /instance/org.eclipse.cdt.core.prj-ECLIPSE_GodotJuegoMatematicaCPP/indexer/preferenceScope=0
-/instance/org.eclipse.cdt.core.prj-Godot_Eclipse_proyect/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-Prueba_Rapida_CPP/indexer/preferenceScope=0
 /instance/org.eclipse.cdt.core/doxygen/doxygen_new_line_after_brief=true
 /instance/org.eclipse.cdt.core/doxygen/doxygen_use_brief_tag=false
 /instance/org.eclipse.cdt.core/doxygen/doxygen_use_javadoc_tags=true
@@ -437,6 +437,7 @@
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.showSourceFilesInBinaries=true
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.showSourceNotFoundEditor=never
 /instance/org.eclipse.cdt.core/org.eclipse.cdt.core.showSourceRootsAtTopLevelOfProject=true
+/instance/org.eclipse.cdt.debug.core/BreakpointActionManager.actionData=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<breakpointActionData/>\r\n
 /instance/org.eclipse.cdt.debug.core/org.eclipse.cdt.debug.core.cDebug.default_source_containers=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<sourceLookupDirector>\r\n    <sourceContainers duplicates\="false">\r\n        <container memento\="AbsolutePath" typeId\="org.eclipse.cdt.debug.core.containerType.absolutePath"/>\r\n        <container memento\="programRelativePath" typeId\="org.eclipse.cdt.debug.core.containerType.programRelativePath"/>\r\n        <container memento\="&lt;?xml version\=&quot;1.0&quot; encoding\=&quot;UTF-8&quot; standalone\=&quot;no&quot;?&gt;&\#13;&\#10;&lt;project referencedProjects\=&quot;true&quot;/&gt;&\#13;&\#10;" typeId\="org.eclipse.cdt.debug.core.containerType.project"/>\r\n    </sourceContainers>\r\n</sourceLookupDirector>\r\n
 /instance/org.eclipse.cdt.debug.ui/columnOrderKeyEXE=0,1,2,3,4,5
 /instance/org.eclipse.cdt.debug.ui/columnOrderKeySF=0,1,2,3,4,5
@@ -458,9 +459,13 @@
 /instance/org.eclipse.cdt.managedbuilder.core/properties/PRUEBA_CPP_ECLIPSE_PROYECTO.cdt.managedbuild.target.gnu.mingw.exe.1812573301/cdt.managedbuild.config.gnu.mingw.exe.release.1593513001=cdt.managedbuild.tool.gnu.assembler.mingw.exe.release.1824682656\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.c.compiler.mingw.exe.release.496762837\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.toolchain.gnu.mingw.exe.release.1421587754\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.release.1767981216\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cpp.linker.mingw.exe.release.239888704\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.archiver.mingw.base.1732074866\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.c.linker.mingw.exe.release.976227578\=rebuildState\\\=true\\r\\n\r\n
 /instance/org.eclipse.cdt.managedbuilder.core/properties/ProyectoPrueba.cdt.managedbuild.target.gnu.mingw.exe.1723452540/cdt.managedbuild.config.gnu.mingw.exe.debug.133577353=cdt.managedbuild.tool.gnu.assembler.mingw.exe.debug.279583676\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.toolchain.gnu.mingw.exe.debug.2036746872\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.archiver.mingw.base.1368848924\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.c.compiler.mingw.exe.debug.1704389266\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.c.linker.mingw.exe.debug.1903995821\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cpp.linker.mingw.exe.debug.287383430\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.45553699\=rebuildState\\\=true\\r\\n\r\n
 /instance/org.eclipse.cdt.managedbuilder.core/properties/ProyectoPrueba.cdt.managedbuild.target.gnu.mingw.exe.1723452540/cdt.managedbuild.config.gnu.mingw.exe.release.548690949=cdt.managedbuild.tool.gnu.c.compiler.mingw.exe.release.2026322853\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.toolchain.gnu.mingw.exe.release.1857913414\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.c.linker.mingw.exe.release.506468677\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cpp.linker.mingw.exe.release.2035330877\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.release.1945653422\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.archiver.mingw.base.1613351845\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.assembler.mingw.exe.release.1057652519\=rebuildState\\\=true\\r\\n\r\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/Prueba_Rapida_CPP.cdt.managedbuild.target.gnu.mingw.exe.260336698/cdt.managedbuild.config.gnu.mingw.exe.debug.93583913=cdt.managedbuild.tool.gnu.cpp.linker.mingw.exe.debug.1297517447\=rebuildState\\\=false\\r\\n\r\ncdt.managedbuild.tool.gnu.c.linker.mingw.exe.debug.1009334639\=rebuildState\\\=false\\r\\n\r\ncdt.managedbuild.config.gnu.mingw.exe.debug.93583913\=rebuildState\\\=false\\r\\nrcState\\\=0\\r\\n\r\ncdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.895235749\=rebuildState\\\=false\\r\\n\r\ncdt.managedbuild.tool.gnu.c.compiler.mingw.exe.debug.1418309297\=rebuildState\\\=false\\r\\n\r\ncdt.managedbuild.toolchain.gnu.mingw.exe.debug.1922727431\=rebuildState\\\=false\\r\\n\r\ncdt.managedbuild.tool.gnu.assembler.mingw.exe.debug.687380217\=rebuildState\\\=false\\r\\n\r\ncdt.managedbuild.tool.gnu.archiver.mingw.base.2001128658\=rebuildState\\\=false\\r\\n\r\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/Prueba_Rapida_CPP.cdt.managedbuild.target.gnu.mingw.exe.260336698/cdt.managedbuild.config.gnu.mingw.exe.release.496634071=cdt.managedbuild.tool.gnu.archiver.mingw.base.990959650\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.toolchain.gnu.mingw.exe.release.1621468803\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.c.compiler.mingw.exe.release.1069646662\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.release.1920607177\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.c.linker.mingw.exe.release.1470070859\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.assembler.mingw.exe.release.2104461164\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cpp.linker.mingw.exe.release.451202956\=rebuildState\\\=true\\r\\n\r\n
 /instance/org.eclipse.cdt.ui/MemberFilterActionGroup.COutlineViewer.16=true
 /instance/org.eclipse.cdt.ui/asm_directive=217,101,113
 /instance/org.eclipse.cdt.ui/asm_label=242,242,242
+/instance/org.eclipse.cdt.ui/buildConsoleBackgroundColor=0,0,255
+/instance/org.eclipse.cdt.ui/buildConsoleOutputStreamColor=255,255,255
 /instance/org.eclipse.cdt.ui/c_braces=242,242,242
 /instance/org.eclipse.cdt.ui/c_comment_task_tag=119,122,131
 /instance/org.eclipse.cdt.ui/c_default=242,242,242
@@ -553,9 +558,13 @@
 /instance/org.eclipse.debug.core//org.eclipse.debug.core.PREFERRED_DELEGATES/org.eclipse.cdt.launch.postmortemLaunchType=org.eclipse.cdt.dsf.gdb.launch.coreCLaunch,debug,;
 /instance/org.eclipse.debug.core//org.eclipse.debug.core.PREFERRED_DELEGATES/org.eclipse.cdt.launch.remoteApplicationLaunchType=org.eclipse.rse.remotecdt.dsf.debug,debug,;
 /instance/org.eclipse.debug.core/prefWatchExpressions=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<watchExpressions/>\r\n
+/instance/org.eclipse.debug.ui/Console.highWaterMark=88000
 /instance/org.eclipse.debug.ui/StringVariablePreferencePage=124,104,103,82,
 /instance/org.eclipse.debug.ui/org.eclipse.debug.ui.MemoryView.orientation=0
 /instance/org.eclipse.debug.ui/org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<launchPerspectives/>\r\n
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.consoleBackground=0,0,64
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.outColor=255,255,255
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.save_dirty_editors_before_launch=always
 /instance/org.eclipse.debug.ui/org.eclipse.debug.ui.user_view_bindings=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<viewBindings>\r\n    <view id\="org.eclipse.debug.ui.MemoryView">\r\n        <perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="closed"/>\r\n    </view>\r\n    <view id\="org.eclipse.debug.ui.RegisterView">\r\n        <perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="closed"/>\r\n    </view>\r\n    <view id\="org.eclipse.debug.ui.ModuleView">\r\n        <perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="closed"/>\r\n    </view>\r\n    <view id\="org.eclipse.cdt.debug.ui.debuggerConsoleView">\r\n        <perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="closed"/>\r\n    </view>\r\n    <view id\="org.eclipse.debug.ui.VariableView">\r\n        <perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="closed"/>\r\n    </view>\r\n    <view id\="org.eclipse.debug.ui.DebugView">\r\n        <perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="closed"/>\r\n    </view>\r\n    <view id\="org.eclipse.debug.ui.ExpressionView">\r\n        <perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="closed"/>\r\n    </view>\r\n    <view id\="org.eclipse.debug.ui.BreakpointView">\r\n        <perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="closed"/>\r\n    </view>\r\n    <view id\="org.eclipse.ui.console.ConsoleView">\r\n        <perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="closed"/>\r\n    </view>\r\n</viewBindings>\r\n
 /instance/org.eclipse.debug.ui/pref_state_memento.org.eclipse.debug.ui.BreakpointView=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<VariablesViewMemento org.eclipse.debug.ui.SASH_DETAILS_PART\="315" org.eclipse.debug.ui.SASH_VIEW_PART\="684">\r\n<PRESENTATION_CONTEXT_PROPERTIES IMemento.internal.id\="org.eclipse.debug.ui.BreakpointView">\r\n<BOOLEAN BOOLEAN\="true" IMemento.internal.id\="org.eclipse.debug.ui.check"/>\r\n</PRESENTATION_CONTEXT_PROPERTIES>\r\n</VariablesViewMemento>
 /instance/org.eclipse.debug.ui/pref_state_memento.org.eclipse.debug.ui.DebugVieworg.eclipse.debug.ui.DebugView=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<DebugViewMemento org.eclipse.debug.ui.BREADCRUMB_DROPDOWN_AUTO_EXPAND\="false"/>
@@ -572,6 +581,8 @@
 /instance/org.eclipse.e4.ui.workbench.renderers.swt/USE_ROUND_TABS=true
 /instance/org.eclipse.e4.ui.workbench.renderers.swt/enableMRU=true
 /instance/org.eclipse.e4.ui.workbench.renderers.swt/themeEnabled=true
+/instance/org.eclipse.egit.core/GitRepositoriesView.GitDirectories=
+/instance/org.eclipse.egit.core/GitRepositoriesView.GitDirectories.relative=
 /instance/org.eclipse.epp.mpc.ui/CatalogDescriptor=https\://marketplace.eclipse.org/dedicated_catalog_hosting/2671769
 /instance/org.eclipse.help.base/scope=
 /instance/org.eclipse.help.ui/browser.h=720
@@ -671,18 +682,21 @@
 /instance/org.eclipse.jst.jsp.ui/tagAttributeValue=\#FFEDA0 | null | false | false | false | false
 /instance/org.eclipse.jst.jsp.ui/tagBorder=\#56B2FF | null | false | false | false | false
 /instance/org.eclipse.launchbar.core/LaunchTargetManager/configs/Build\ &\ Launch\ Project\ Explorer=org.eclipse.launchbar.core.launchTargetType.local\:Local
+/instance/org.eclipse.launchbar.core/LaunchTargetManager/configs/EJecutar\ Comando\ shell\ en\ consola=org.eclipse.launchbar.core.launchTargetType.local\:Local
 /instance/org.eclipse.launchbar.core/LaunchTargetManager/configs/Eclipse_Godot_Cpp_Proyect\ Debug=org.eclipse.launchbar.core.launchTargetType.local\:Local
 /instance/org.eclipse.launchbar.core/LaunchTargetManager/configs/Ejecutar\ Godot\ Con\ el\ Proyecto=org.eclipse.launchbar.core.launchTargetType.local\:Local
 /instance/org.eclipse.launchbar.core/LaunchTargetManager/configs/Init\ Godot\ with\ Proyect=org.eclipse.launchbar.core.launchTargetType.local\:Local
 /instance/org.eclipse.launchbar.core/LaunchTargetManager/configs/PROBANDO\ Launch\ Editor=org.eclipse.launchbar.core.launchTargetType.local\:Local
 /instance/org.eclipse.launchbar.core/LaunchTargetManager/configs/PRUEBA=org.eclipse.launchbar.core.launchTargetType.local\:Local
+/instance/org.eclipse.launchbar.core/LaunchTargetManager/configs/Prueba_Rapida_CPP=org.eclipse.launchbar.core.launchTargetType.local\:Local
 /instance/org.eclipse.launchbar.core/LaunchTargetManager/configs/Scons\ desde\ Consola=org.eclipse.launchbar.core.launchTargetType.local\:Local
 /instance/org.eclipse.launchbar.core/LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
 /instance/org.eclipse.launchbar.core/LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 /instance/org.eclipse.launchbar.core/LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-/instance/org.eclipse.launchbar.core/configDescList=org.eclipse.launchbar.core.descriptorType.default\:Init Godot with Proyect,org.eclipse.launchbar.core.descriptorType.default\:PRUEBA
+/instance/org.eclipse.launchbar.core/configDescList=org.eclipse.launchbar.core.descriptorType.default\:Init Godot with Proyect,org.eclipse.launchbar.core.descriptorType.default\:PRUEBA,org.eclipse.launchbar.core.descriptorType.default\:Prueba_Rapida_CPP,org.eclipse.launchbar.core.descriptorType.default\:EJecutar Comando shell en consola
 /instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:Build\ &\ Launch\ Project\ Explorer/activeLaunchMode=run
 /instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:Build\ &\ Launch\ Project\ Explorer/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:EJecutar\ Comando\ shell\ en\ consola/activeLaunchMode=run
 /instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:Eclipse_Godot_Cpp_Proyect\ Debug/activeLaunchMode=run
 /instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:Eclipse_Godot_Cpp_Proyect\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
 /instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:Init\ Godot\ with\ Proyect/activeLaunchMode=run
@@ -1157,6 +1171,7 @@
 @org.eclipse.debug.ui=3.15.100.v20210812-1116
 @org.eclipse.e4.ui.css.swt.theme=0.13.0.v20201026-1147
 @org.eclipse.e4.ui.workbench.renderers.swt=0.15.200.v20210816-1658
+@org.eclipse.egit.core=5.13.0.202109080827-r
 @org.eclipse.epp.mpc.ui=1.9.1.v20210204-1408
 @org.eclipse.help.base=4.3.400.v20210906-0500
 @org.eclipse.help.ui=4.3.100.v20210619-0925
